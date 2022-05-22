@@ -11,3 +11,7 @@ i quite enjoy it so far!
 ♡completed "learn basic css by building a cafe menu"
 ♡concepts are starting to stick
 ♡learning github
+
+### R1D3
+♡continuing freecodecamp responsive web design course
+♡began sololearn course on javascript for mobile coding
