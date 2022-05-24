@@ -15,3 +15,13 @@ i quite enjoy it so far!
 ### R1D3
 ♡continuing freecodecamp responsive web design course
 ♡began sololearn course on javascript for mobile coding
+
+### R1D4
+♡continuing freecodecamp responsive web design course
+♡learning basics of javascript on sololearn
+
+### R1D5 
+♡freecodecamp responsive web design course: building a registration form
+    ↝completion: 47%, 27/57
+    ↝types of inputs, required info, file uploads, data collection
+♡sololearn javascript course when on the go :)
