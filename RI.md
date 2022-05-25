@@ -15,3 +15,7 @@ i quite enjoy it so far!
 ### R1D3
 ♡continuing freecodecamp responsive web design course
 ♡began sololearn course on javascript for mobile coding
+
+### R1D6
+♡finished freecodecamp responsive web design 'registration form' module
+    ↝i enjoyed this a lot. you can tell they're starting to loosen the reigns on how they instruct you to complete tasks. i am excited to start the first certification project, survey form!
