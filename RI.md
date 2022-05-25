@@ -25,3 +25,7 @@ i quite enjoy it so far!
     ↝completion: 47%, 27/57
     ↝types of inputs, required info, file uploads, data collection
 ♡sololearn javascript course when on the go :)
+
+### R1D6
+♡finished freecodecamp responsive web design 'registration form' module
+    ↝i enjoyed this a lot. you can tell they're starting to loosen the reigns on how they instruct you to complete tasks. i am excited to start the first certification project, survey form!
